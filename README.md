@@ -27,7 +27,6 @@ and specifically the [user guide](https://docs.nvidia.com/datacenter/cloud-nativ
 
 ## Issues and Contributing
 
-[Checkout the Contributing document!](CONTRIBUTING.md)
-
+// new
 * Please let us know by [filing a new issue](https://github.com/NVIDIA/nvidia-container-toolkit/issues/new) against the `nvidia-container-toolkit` repository.
 * You can contribute by opening a [merge request](https://gitlab.com/nvidia/container-toolkit/container-toolkit/-/merge_requests)
